@@ -21,3 +21,8 @@ A: We know what was the state of the repo before we introduced new changes.
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A: Probably by sending project back and forth and comunicating. It would be easier to agree about small
 changes but it would be harder to make complicated changes.
+
+6.
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: Maybe when I'm not sure yet about the final state of the change, like i would maybe add some aditional changes and make alternative
+version of the main project. I could see how it would turn out without afecting master.
