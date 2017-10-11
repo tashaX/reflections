@@ -17,7 +17,11 @@ check what's been currently wriiten in staging area.
 4.
 Q: What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+A. When you want to make some big change to a project, like another version maybe,
+something that is not just a bug. Branches help with that couse I can keep track of 
+the original project, and also the new one.
 
+5.
 Q: How do the diagrams help you visualize the branch structure?
 
 Q: What is the result of merging two branches together? Why do we represent it in
