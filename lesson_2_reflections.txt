@@ -29,6 +29,9 @@ my branches and their connections.
 6.
 Q: What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+A: I think that the result is: every line of code that is the same in some branch and master before 
+branching, is kept, than branching is added, and all that was made after branching in master branch
+
 
 7.
 Q: What are the pros and cons of Git's automatic merging vs. always doing merges
