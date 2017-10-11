@@ -7,3 +7,8 @@ Q: Why might you want to always pull changes manually rather than having Git aut
 stay up-to-date with your remote repository?
 A: Maybe I don't want to update my local repository with the changes made
 by other people.
+
+3.
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A: Fork allows us to clone git repo and contribute it without beeing named as contributors by original
+author. We clone the repo to ours acounts.
