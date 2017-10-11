@@ -10,7 +10,11 @@ A: It is the inbeetween area, where we make changes, I guess. Where we decide wh
 3.
 Q: How can you use the staging area to make sure you have one commit per logical
 change?
+A: After every logical change i make, I can run git commit
+I can compare changes between working directory and staging area and I can 
+check what's been currently wriiten in staging area.
 
+4.
 Q: What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
