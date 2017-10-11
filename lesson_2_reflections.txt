@@ -1,8 +1,13 @@
+1.
 Q: What happens when you initialize a repository? Why do you need to do it?
+A: it creates .git subdirectory and master branch, maybe
 
+2.
 Q: How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+A: It is the inbeetween area, where we make changes, I guess. Where we decide what changes to keep.
 
+3.
 Q: How can you use the staging area to make sure you have one commit per logical
 change?
 
