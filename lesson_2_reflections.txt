@@ -36,3 +36,5 @@ branching, is kept, than branching is added, and all that was made after branchi
 7.
 Q: What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+A: automatic merging saves a lot of time and nerves, but we have less control and 
+maybe sometimes we will not get the code that is executable or it won't run properly
