@@ -12,3 +12,8 @@ by other people.
 Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
 A: Fork allows us to clone git repo and contribute it without beeing named as contributors by original
 author. We clone the repo to ours acounts.
+
+4.
+
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+A: We know what was the state of the repo before we introduced new changes.
