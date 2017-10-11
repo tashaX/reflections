@@ -1,3 +1,9 @@
 1.
 Q: When would you want to create a remote repository rather than keeping your work local?
 A: When I would want others to contribute to my project.
+
+2.
+Q: Why might you want to always pull changes manually rather than having Git automatically 
+stay up-to-date with your remote repository?
+A: Maybe I don't want to update my local repository with the changes made
+by other people.
